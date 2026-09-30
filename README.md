@@ -2,4 +2,4 @@
 
 Ejercicio de imagenes del curso IFCD0110 la UF1302
 
-Web de pruebas: http://webusable.github.io/cv/
+Web de pruebas: https://github.com/lazolopez/proyecto01
